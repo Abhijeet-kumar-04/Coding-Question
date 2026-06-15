@@ -23,7 +23,7 @@ public:
         int i=0;int j=0;
         int n1=v1.size();
         int n2=v2.size();
-        while(i<n1 and j<n2){
+        while(i<n1 && j<n2){
             if(v1[i]<=v2[j]){
                 ans.push_back(v1[i]);
                 i++;
