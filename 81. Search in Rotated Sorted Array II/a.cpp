@@ -14,13 +14,13 @@ public:
         while(lo<=hi){
             int mid = lo+(hi-lo)/2;
             if(nums[mid]==target) return true;
-            if(nums[lo]==nums[mid]and nums[mid]==nums[hi]){
+            if(nums[lo]==nums[mid]&& nums[mid]==nums[hi]){
                 lo++;
                 hi--;
                 continue;
             }
             if(nums[lo]<=nums[mid]){
-                if(nums[lo]<=target and target < nums[mid]){
+                if(nums[lo]<=target && target < nums[mid]){
                     hi = mid-1;
                 }
                 else{
@@ -28,7 +28,7 @@ public:
                 }
             }
             else{
-                if(nums[mid]<target and target <= nums[hi]){
+                if(nums[mid]<target && target <= nums[hi]){
                     lo=mid+1;
                 }
                 else{
