@@ -44,4 +44,20 @@
 |  |
 | ------- |
 | [2542-maximum-subsequence-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2542-maximum-subsequence-score) |
+## Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
