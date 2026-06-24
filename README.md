@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0643-maximum-average-subarray-i) |
 | [1268-search-suggestions-system](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1268-search-suggestions-system) |
 | [2542-maximum-subsequence-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2542-maximum-subsequence-score) |
 ## String
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
