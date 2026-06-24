@@ -60,4 +60,12 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0901-online-stock-span) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
