@@ -7,6 +7,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [1268-search-suggestions-system](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1268-search-suggestions-system) |
+| [2542-maximum-subsequence-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2542-maximum-subsequence-score) |
 ## String
 |  |
 | ------- |
@@ -24,11 +25,13 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [1268-search-suggestions-system](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1268-search-suggestions-system) |
+| [2542-maximum-subsequence-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2542-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [1268-search-suggestions-system](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1268-search-suggestions-system) |
+| [2542-maximum-subsequence-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2542-maximum-subsequence-score) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,4 +40,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [2542-maximum-subsequence-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2542-maximum-subsequence-score) |
 <!---LeetCode Topics End-->
