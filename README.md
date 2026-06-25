@@ -76,6 +76,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0790-domino-and-tromino-tiling](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0790-domino-and-tromino-tiling) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Bit Manipulation
