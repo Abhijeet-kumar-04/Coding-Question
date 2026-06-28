@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -114,6 +115,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0128-longest-consecutive-sequence) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -172,4 +174,8 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0124-binary-tree-maximum-path-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
