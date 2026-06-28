@@ -16,6 +16,7 @@
 | [2462-total-cost-to-hire-k-workers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2542-maximum-subsequence-score) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -30,6 +31,7 @@
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1268-search-suggestions-system) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Trie
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [1268-search-suggestions-system](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1268-search-suggestions-system) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2542-maximum-subsequence-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2542-maximum-subsequence-score) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -64,6 +67,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2542-maximum-subsequence-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2542-maximum-subsequence-score) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
 | ------- |
@@ -135,6 +139,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Simulation
 |  |
 | ------- |
