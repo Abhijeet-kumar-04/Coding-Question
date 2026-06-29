@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0072-edit-distance) |
+| [0763-partition-labels](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0763-partition-labels) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2542-maximum-subsequence-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2542-maximum-subsequence-score) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -130,6 +132,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0347-top-k-frequent-elements) |
+| [0763-partition-labels](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0763-partition-labels) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -159,6 +162,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0295-find-median-from-data-stream) |
+| [0763-partition-labels](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0763-partition-labels) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
