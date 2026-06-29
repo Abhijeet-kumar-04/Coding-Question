@@ -28,6 +28,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0131-palindrome-partitioning) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1143-longest-common-subsequence) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0072-edit-distance](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0131-palindrome-partitioning) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-domino-and-tromino-tiling](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0790-domino-and-tromino-tiling) |
 | [1143-longest-common-subsequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1143-longest-common-subsequence) |
@@ -222,4 +224,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0933-number-of-recent-calls) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
