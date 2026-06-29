@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0032-longest-valid-parentheses](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0131-palindrome-partitioning) |
@@ -92,6 +93,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0901-online-stock-span](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -120,6 +122,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0131-palindrome-partitioning) |
