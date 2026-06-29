@@ -8,6 +8,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -38,6 +39,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1268-search-suggestions-system) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -119,6 +121,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0300-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-domino-and-tromino-tiling](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0790-domino-and-tromino-tiling) |
 | [1143-longest-common-subsequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1143-longest-common-subsequence) |
