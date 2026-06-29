@@ -94,6 +94,7 @@
 | [0146-lru-cache](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0933-number-of-recent-calls) |
 ## Math
 |  |
 | ------- |
@@ -213,4 +215,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0146-lru-cache) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
