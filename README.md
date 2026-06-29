@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0347-top-k-frequent-elements) |
 | [1268-search-suggestions-system](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1268-search-suggestions-system) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0347-top-k-frequent-elements) |
 | [1268-search-suggestions-system](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1268-search-suggestions-system) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -94,6 +97,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0901-online-stock-span) |
 ## Math
 |  |
@@ -154,6 +158,7 @@
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0295-find-median-from-data-stream](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0295-find-median-from-data-stream) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
