@@ -85,6 +85,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0146-lru-cache) |
 | [0901-online-stock-span](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0347-top-k-frequent-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0146-lru-cache) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
@@ -191,4 +194,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0347-top-k-frequent-elements) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
