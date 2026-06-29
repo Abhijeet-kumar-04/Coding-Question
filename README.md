@@ -110,6 +110,7 @@
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0279-perfect-squares) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -117,6 +118,7 @@
 | [0072-edit-distance](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0131-palindrome-partitioning) |
+| [0279-perfect-squares](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0279-perfect-squares) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-domino-and-tromino-tiling](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0790-domino-and-tromino-tiling) |
 | [1143-longest-common-subsequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1143-longest-common-subsequence) |
@@ -228,4 +230,8 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0131-palindrome-partitioning) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
