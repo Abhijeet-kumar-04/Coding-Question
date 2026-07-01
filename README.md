@@ -12,6 +12,7 @@
 | [0274-h-index](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1004-max-consecutive-ones-iii) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
@@ -122,6 +124,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0380-insert-delete-getrandom-o1) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -163,6 +166,7 @@
 | [0139-word-break](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0763-partition-labels) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -260,4 +264,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
