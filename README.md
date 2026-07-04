@@ -236,6 +236,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -245,6 +246,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0128-longest-consecutive-sequence) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
@@ -266,6 +268,7 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0279-perfect-squares) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Memoization
@@ -288,6 +291,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
