@@ -137,6 +137,7 @@
 | [0279-perfect-squares](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0380-insert-delete-getrandom-o1) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -312,4 +313,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
