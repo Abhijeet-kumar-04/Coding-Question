@@ -22,6 +22,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -139,6 +140,7 @@
 | [0279-perfect-squares](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0380-insert-delete-getrandom-o1) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -321,6 +323,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
