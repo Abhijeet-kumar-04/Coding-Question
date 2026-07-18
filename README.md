@@ -9,6 +9,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0347-top-k-frequent-elements) |
@@ -53,6 +54,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1268-search-suggestions-system) |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0347-top-k-frequent-elements) |
@@ -137,6 +140,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0380-insert-delete-getrandom-o1) |
@@ -166,6 +170,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0371-sum-of-two-integers) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Sliding Window
@@ -187,6 +192,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0146-lru-cache) |
+| [0268-missing-number](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0438-find-all-anagrams-in-a-string) |
