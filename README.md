@@ -22,6 +22,7 @@
 | [1288-remove-covered-intervals](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -114,6 +115,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2542-maximum-subsequence-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2542-maximum-subsequence-score) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
