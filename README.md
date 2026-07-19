@@ -47,6 +47,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0316-remove-duplicate-letters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0763-partition-labels) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1268-search-suggestions-system) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -112,6 +113,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0316-remove-duplicate-letters) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0763-partition-labels) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2542-maximum-subsequence-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2542-maximum-subsequence-score) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -122,6 +124,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0316-remove-duplicate-letters) |
 | [0901-online-stock-span](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -136,6 +139,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0316-remove-duplicate-letters) |
 | [0901-online-stock-span](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Data Stream
 |  |
 | ------- |
