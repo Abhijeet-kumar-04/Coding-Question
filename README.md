@@ -8,6 +8,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0274-h-index) |
@@ -73,6 +74,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0274-h-index) |
@@ -99,6 +101,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -203,6 +206,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0380-insert-delete-getrandom-o1) |
@@ -225,6 +229,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
