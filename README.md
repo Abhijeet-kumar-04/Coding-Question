@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0139-word-break) |
@@ -257,6 +258,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0054-spiral-matrix) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -329,6 +331,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0054-spiral-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3286-find-a-safe-walk-through-a-grid) |
