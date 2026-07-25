@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0139-word-break) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0139-word-break) |
@@ -336,6 +338,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0498-diagonal-traverse) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1329-sort-the-matrix-diagonally) |
