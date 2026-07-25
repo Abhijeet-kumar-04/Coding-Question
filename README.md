@@ -18,6 +18,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1004-max-consecutive-ones-iii) |
@@ -259,6 +260,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0498-diagonal-traverse) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -332,6 +334,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0498-diagonal-traverse) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3286-find-a-safe-walk-through-a-grid) |
