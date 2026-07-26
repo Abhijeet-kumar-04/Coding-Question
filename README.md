@@ -20,6 +20,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0498-diagonal-traverse) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1004-max-consecutive-ones-iii) |
@@ -86,6 +87,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1268-search-suggestions-system](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1329-sort-the-matrix-diagonally) |
@@ -168,6 +170,7 @@
 | [0279-perfect-squares](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0380-insert-delete-getrandom-o1) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3700-number-of-zigzag-arrays-ii) |
