@@ -20,6 +20,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0643-maximum-average-subarray-i) |
@@ -175,6 +176,7 @@
 | [0279-perfect-squares](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -193,6 +195,7 @@
 | [0139-word-break](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0300-longest-increasing-subsequence) |
+| [0486-predict-the-winner](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0486-predict-the-winner) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-domino-and-tromino-tiling](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0790-domino-and-tromino-tiling) |
 | [1143-longest-common-subsequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1143-longest-common-subsequence) |
@@ -377,4 +380,12 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
