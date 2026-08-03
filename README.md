@@ -31,6 +31,7 @@
 | [1288-remove-covered-intervals](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1329-sort-the-matrix-diagonally) |
+| [1406-stone-game-iii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -180,6 +181,7 @@
 | [0486-predict-the-winner](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -203,6 +205,7 @@
 | [0877-stone-game](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3620-network-recovery-pathways](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -392,4 +395,13 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
