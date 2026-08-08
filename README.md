@@ -68,6 +68,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
@@ -144,6 +145,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2542-maximum-subsequence-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
@@ -212,6 +214,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Bit Manipulation
@@ -282,6 +285,7 @@
 | [0763-partition-labels](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0763-partition-labels) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
