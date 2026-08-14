@@ -68,6 +68,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -234,6 +235,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -251,6 +253,7 @@
 | [0763-partition-labels](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/0763-partition-labels) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhijeet-kumar-04/Coding-Question/tree/master/3739-count-subarrays-with-majority-element-ii) |
